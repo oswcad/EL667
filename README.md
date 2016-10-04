@@ -3,4 +3,4 @@ Complementary material for  Embedded Computer Systems, University of Kent module
 
 [![Binder]
 (http://mybinder.org/badge.svg)]
-http://mybinder.org/repo/oswcad/el021)
+http://mybinder.org/repo/oswcad/el667)
